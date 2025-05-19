@@ -4,10 +4,9 @@
 - 💞️ I’m looking to collaborate on Bioinformatics as a hobby
 - 📫 How to reach me email trungbioinformatics@gmail.com
 
-  
 ## Update current status
 
-![image](https://github.com/user-attachments/assets/67213d31-ec32-4a2f-a717-ebd37c1b13da)
+![image](https://github.com/user-attachments/assets/3399efca-32eb-43a4-8134-892e16274bd5)
 
 <!---
 minhtrung1997/minhtrung1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
