@@ -3,7 +3,10 @@
 - 🌱 I’m currently doing support role for my company customers
 - 💞️ I’m looking to collaborate on Bioinformatics as a hobby
 - 📫 How to reach me email trungbioinformatics@gmail.com
-  Update current status
+
+  
+## Update current status
+
 ![image](https://github.com/user-attachments/assets/67213d31-ec32-4a2f-a717-ebd37c1b13da)
 
 <!---
